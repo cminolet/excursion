@@ -1,6 +1,7 @@
 * {
   font-family: Verdana, sans-serif;
   background-color: Black;
+  text-align: center;
 }
 
 h1 {
@@ -10,8 +11,28 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: White;
+}
+
+h3 {
+  font-size: 21px;
+  color: Gray;
+  font-weight: 100;
+}
+
+p {
+  text-align: center;
+}
+
 a {
   font-size: 16px;
   color: Aquamarine;
+  text-align: center;
+}
+
+video {
   text-align: center;
 }
