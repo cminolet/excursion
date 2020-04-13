@@ -1,7 +1,6 @@
-* {
+body {
   font-family: Verdana, sans-serif;
   background-color: Black;
-  text-align: center;
 }
 
 h1 {
@@ -15,12 +14,14 @@ h2 {
   font-size: 42px;
   font-weight: 300;
   color: White;
+  text-align: center;
 }
 
 h3 {
   font-size: 21px;
   color: Gray;
   font-weight: 100;
+  text-align: center;
 }
 
 p {
@@ -35,4 +36,14 @@ a {
 
 video {
   text-align: center;
+}
+
+footer {
+  text-align: right;
+  color: Gray;
+}
+
+.footer {
+  text-align: right;
+  color: Gray;
 }
